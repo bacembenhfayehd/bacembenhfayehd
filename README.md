@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi I'm Bacem 👋</h1>
+<p align="center">
+  <a href=""></a>
+   <a href=""></a>
+</p>
+
+<img src="https://github.com/bacembenhfayehd/img/blob/main/imgs/bacim.jpg"/>
 
 <!--
 **bacembenhfayehd/bacembenhfayehd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
