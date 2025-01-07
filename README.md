@@ -8,7 +8,7 @@
 
 I'm a web developer and instructor who is passionate about creating web applications and help new developers to find the right path. Some technologies I enjoy working with include Javascript, Typescript, ReactJS, and NodeJS.
 
-- 🔭 I'm a web developer [@Hexagrow](https://www.hexagro.io/?srsltid=AfmBOop3cjPhV3G3nv1c6IMxkF05fnQDWN2_G2nsGdyANiSR-q5ju0Pe) working remotely  Tunisia
+- 🔭 I'm a web developer [@Hexagrow](https://www.hexagro.io/?srsltid=AfmBOop3cjPhV3G3nv1c6IMxkF05fnQDWN2_G2nsGdyANiSR-q5ju0Pe) working remotely from Tunisia
 <!--- 🔍 I have 2 live apps: 
   - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
   - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))-->
