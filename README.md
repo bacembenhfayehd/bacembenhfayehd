@@ -11,10 +11,10 @@
 
 I'm a passionate Software Developer architecting and deploying scalable web solutions. I combine clean code discipline with modern cloud technologies to build resilient, high-impact web applications.
 
-👨‍🏫 Software Developer & Instructor at GOMYCODE Tunisia
-🎓 Master's in E-Commerce Development 
-💬 Ask me about TypeScript, React, Node.js, NestJS, System Architecture
-📫 Reach me: bacem.benhfayedh@gmail.com
+- 👨‍🏫 Software Developer & Instructor at GOMYCODE Tunisia
+- 🎓 Master's in E-Commerce Development 
+- 💬 Ask me about TypeScript, React, Node.js, NestJS, System Architecture
+- 📫 Reach me: bacem.benhfayedh@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -46,39 +46,6 @@ I'm a passionate Software Developer architecting and deploying scalable web solu
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Bacem's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacembenhfayehd&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bacembenhfayehd&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacembenhfayehd&theme=radical)
-
-</div>
-
-## 🏆 Featured Projects
-
-### 🏗️ [Manarja](https://github.com/bacembenhfayehd/manarja) - Business Management SaaS
-A comprehensive business management platform with 27+ modules including analytics, budgeting, project management, and automated reporting.
-- **Tech**: NestJS, Prisma, PostgreSQL, TypeScript
-- **Features**: Modular architecture, scalable microservices, enterprise-grade security
-
-### 🤖 LLMInterview - AI Recruitment Platform
-Automated recruitment system with AI-powered question generation and real-time interviews.
-- **Tech**: Django, Python, React, LLM (Ollama, Langchain), Docker
-- **Features**: CV parsing, automated interviews, application tracking
-
-### 🛒 AI-Powered E-commerce Platform - Master's Thesis
-Intelligent e-commerce application with personalized recommendations and chatbot.
-- **Tech**: React, Node.js, TensorFlow, Redis, Elasticsearch
-- **Features**: ML recommendations, real-time analytics, scalable architecture
-
-## 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🌐 Connect With Me
 
