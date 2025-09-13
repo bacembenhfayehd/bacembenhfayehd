@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Bacem 🚀</h1>
-<h3 align="center">Building the future of SaaS • Teaching the next generation of developers</h3>
+<h1 align="center">Hey there, I'm Bacem </h1>
+<h3 align="center">Building Software</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bacembenhfayehd&label=Profile%20views&color=0e75b6&style=flat" alt="bacembenhfayehd" />
@@ -9,13 +9,11 @@
 
 ## 👨‍💻 What I Do
 
-Currently crafting **enterprise-grade SaaS platforms** while mentoring developers at GOMYCODE. I don't just write code—I architect scalable solutions that handle real business problems.
+I'm a passionate Software Developer architecting and deploying scalable web solutions. I combine clean code discipline with modern cloud technologies to build resilient, high-impact web applications.
 
 **Right now:**
-- 🏗️ Building [Manarja](https://github.com/bacembenhfayehd/manarja) - a comprehensive business management platform with 27+ microservices
-- 💼 Backend engineer at ColonyByte, developing real estate management systems 
-- 🎯 Shipped 15+ production apps as a freelancer
-- 📚 Masters in E-Commerce Development (because theory + practice = magic)
+- 👨‍🏫 Software Developer & Instructor at GOMYCODE Tunisia
+- 🎓 Master's in E-Commerce Development 
 
 **Let's talk:** TypeScript wizardry, NestJS architecture, React performance, or how to scale from 0 to 10K+ users
 
