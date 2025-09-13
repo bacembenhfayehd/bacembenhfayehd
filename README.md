@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bacem 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | SaaS Architect | Tech Instructor</h3>
+<h3 align="center">Software developer | Tech Instructor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bacembenhfayehd&label=Profile%20views&color=0e75b6&style=flat" alt="bacembenhfayehd" />
@@ -9,15 +9,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Software Engineer with 3+ years of experience architecting and deploying scalable SaaS ERP solutions. I combine clean code discipline with modern cloud technologies to build resilient, high-impact web applications.
+I'm a passionate Software Developer architecting and deploying scalable web solutions. I combine clean code discipline with modern cloud technologies to build resilient, high-impact web applications.
 
-- 🔭 **Currently working on**: [Manarja](https://github.com/bacembenhfayehd/manarja) - A comprehensive business management SaaS platform
-- 🏢 **Backend Developer** at [ColonyByte](https://colonybyte.com) (Saudi Arabia, Remote)
-- 👨‍🏫 **Software Developer & Instructor** at [GOMYCODE](https://gomycode.com) Tunisia
-- 🎓 **Master's in E-Commerce Development** - ISG Gabès (2025)
-- 💬 Ask me about **TypeScript, React, Node.js, NestJS, System Architecture**
-- 📫 Reach me: **bacem.benhfayedh@gmail.com**
-- ⚡ Fun fact: I've taught 100+ students while building enterprise SaaS solutions
+👨‍🏫 Software Developer & Instructor at GOMYCODE Tunisia
+🎓 Master's in E-Commerce Development 
+💬 Ask me about TypeScript, React, Node.js, NestJS, System Architecture
+📫 Reach me: bacem.benhfayedh@gmail.com
 
 ## 🛠️ Tech Stack
 
