@@ -12,8 +12,8 @@
 I'm a passionate Software Developer architecting and deploying scalable web solutions. I combine clean code discipline with modern cloud technologies to build resilient, high-impact web applications.
 
 **Right now:**
-- 👨‍🏫 Software Developer & Instructor at GOMYCODE Tunisia
-- 🎓 Master's in E-Commerce Development 
+- 👨‍🏫 Software Developer at Colonybyte & Instructor at GOMYCODE Tunisia
+- 🎓 Master's in Software Development 
 
 **Let's talk:** TypeScript wizardry, NestJS architecture, React performance, or how to scale from 0 to 10K+ users
 
