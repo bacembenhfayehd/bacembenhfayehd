@@ -15,7 +15,7 @@ I'm a passionate Software Developer architecting and deploying scalable web solu
 - 👨‍🏫 SWE at Colonybyte
 - 🎓 Master's in Software Development 
 
-**Let's talk:** TypeScript wizardry, NestJS architecture, React performance, or how to scale from 0 to 10K+ users
+
 
 📬 **bacem.benhfayedh@gmail.com**
 
